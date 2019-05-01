@@ -1,6 +1,5 @@
 ---
 title: About me
-  websites
 excerpt: About me
 permalink: /
 redirect_from:
@@ -9,7 +8,9 @@ redirect_from:
 author_profile: yes
 ---
 
-Welcome to my website. Here you will find my publications, teaching and R-files.
+Welcome!
+
+Here you will find my publications, teaching and R-files.
 
 If you have any suggestions, please let me know.
 
