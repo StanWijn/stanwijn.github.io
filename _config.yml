@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sidebar"
+  name             : "Stan Wijn MSc"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD candidate Radboud institite for Health Sciences; department of Evidence Based Surgery"
   location         : "Nijmegen"
-  employer         :
+  employer         : "Radboudumc"
   googlescholar    : 
-  email            :
+  email            : "stan.wijn@radboudumc.nl"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3782-6677"
   pinterest        :
   soundcloud       :
   stackoverflow    : https://stackoverflow.com/users/7306914/stan-w
