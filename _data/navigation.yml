@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
  # - title: "Blog Posts"
@@ -20,6 +20,7 @@ main:
     
   - title: "Packages"
     url: /packages/
-    
-  - title: "Guide"
-    url: /markdown/
+#  
+#- title: "Guide"
+#  url: /markdown/
+#

@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "iPhone app - "
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/iphoneapp.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Developed an iPhone app that enables patients to share health data with researchers. Being completely patient-centered, patients are able to determine which and with whom to share health data. Moreover, they have to ability to share ideas for future medical research. The app received very positive comments by a patient-panel and was published in ICT & Health (Februari 2017). https://www.icthealth.nl/online-magazine/meer-dynamisch-data-verzamelen-meer-dynamische-informed-consent/ 
+
+All features:
+- Personal consent flow: Determine what and with whom you share data
+- Flexibility: Can be edited or removed at any time, stopping the data-sharing.
+- Opt-in for upcoming prospective studies
+- Monitor what studies are active and finished with your medical data
+- Receive feedback from the results of the finished studies
+- An option to send in ideas for future studies

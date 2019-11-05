@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc, Health Technology Assessment (Cum Laude), Radboud University, Nijmegen, 2017
+* PhD, Radboudumc, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD-candiate - Evidence based surgery
+  * Started: April 2018
+  * Radboudumc, Nijmegen, the Netherlands
+  
+* Secretary RIHS PhD council
+  * The Radboud Institute for Health Sciences (RIHS) PhD Council represents the interests of PhD candidates within the Institute and acts as a liaison between the Institute's management team and its PhD candidates.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* External advisor medical technology / HTA expert - MedValue
+  * Aug. 2018 - aug. 2019
+  
+* Advisor Medical Technology / HTA Expert - MedValue
+  * Jun 2017 - apri. 2018
+  
+* Research-assistant, REShape & Department of Health Evidence, Radboudumc, Nijmegen
+  * Aug. 2015 - jun. 2017
+  
+* Implementation Consultant, Implementation IQ, De Meern
+  * Feb. 2016 - aug. 2016
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R - expert
+* Python - beginner
 
 Publications
 ======
@@ -54,6 +58,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
