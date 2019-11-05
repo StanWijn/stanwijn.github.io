@@ -1,6 +1,6 @@
 ---
-title: "iPhone app - "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/iphoneapp.png'>"
+title: "iPhone app - From patient consent to patient policy"
+excerpt: "An iPhone app that enables patients to share health data with researchers. Being completely patient-centered, patients are able to determine which and with whom to share health data. <br/><img src='/images/iphoneapp.png'>"
 collection: portfolio
 ---
 
