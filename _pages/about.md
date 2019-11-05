@@ -8,10 +8,10 @@ redirect_from:
 author_profile: yes
 ---
 
-Welcome!
+Welcome to my personal webpage.
 
-Here you will find my publications, teaching and R-files.
+Here you will find my publications, projects, and R-files.
 
-If you have any suggestions, please let me know.
+If you have any questions of suggestions, please let me know.
 
 Stan

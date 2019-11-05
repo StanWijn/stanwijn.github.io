@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Guidance from key organisations on exploring, confirming and interpreting subgroup effects of medical treatments: a scoping review."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'The aim of this paper is to determine and evaluate the current guidance used by organisations for exploring, confirming and interpreting subgroup effects.'
+date: 2019-08-24
+venue: 'BMJ Open'
+paperurl: 'https://bmjopen.bmj.com/content/9/8/e028751'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The aim of this paper is to determine and evaluate the current guidance used by organisations for exploring, confirming and interpreting subgroup effects.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://bmjopen.bmj.com/content/9/8/e028751)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:      Wijn SRW, Rovers MM, Le LH, et al
+    Guidance from key organisations on exploring, confirming and interpreting subgroup effects of medical treatments: a scoping review
+    BMJ Open 2019;9:e028751. doi: 10.1136/bmjopen-2018-028751
