@@ -14,6 +14,3 @@ The aim of this paper is to determine and evaluate the current guidance used by 
 
 [Download paper here](https://bmjopen.bmj.com/content/9/8/e028751)
 
-Recommended citation:      Wijn SRW, Rovers MM, Le LH, et al
-    Guidance from key organisations on exploring, confirming and interpreting subgroup effects of medical treatments: a scoping review
-    BMJ Open 2019;9:e028751. doi: 10.1136/bmjopen-2018-028751
