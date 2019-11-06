@@ -9,51 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+cemtool:The interactive cost-effectiveness model tool to build a simple Markov model in R
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+There are multiple software systems that can be used to build Markov models for cost-effectiveness analyses like TreeAge, Excel or R. Although there are numerous advantages to use R over the others, the biggest downside is the steep learning curve from R. The cemtool package aims to close this gap by introducing a step-by-step tool to guide users in building a default Markov models. The tool guides the user though the steps of the development of a Markov model and will present the final result using graphs and tables. The only prerequisite is that the user knows the structure of the model and the transition probabilities, no calculations or coding is required.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+The manual can be viewed here: https://stanwijn.github.io/portfolio/cemtool.pdf
 
-Publications
+## To install 'cemtool' in R:
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+First, you need to install the devtools package. You can do this from CRAN. Start R and then type 
+ ```
+ install.packages("devtools")
+ ```
+ Load the devtools package.
+ ```
+ library(devtools)
+ ```
+ Type:
+ 
+ ```
+ install_github("StanWijn/cemtool")
+ ```
+ You can ignore any warning messages.
+ 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ To load the package, type:
+ ```
+ library(cemtool)
+ ```
+
+To start the tool, type: 
+
+```
+cemtool()
+```
+
+To save the results from the tool, type:
+```
+cemtool.env <- cemtool()
+```
