@@ -4,7 +4,7 @@ excerpt: "You, as a researcher in the field of health technology assessment (HTA
 collection: portfolio
 ---
 
-Play the HTA game at: http://htagame.dx.am/ 
+Play the HTA game at: <http://htagame.dx.am/> 
 
 You, as a researcher in the field of health technology assessment (HTA), decide which of the three innovations has the most added value for Dutch society. The three innovations are: a new diagnostic test for prostate cancer, a new localized treatment of prostate cancer and a new robot-assisted surgery technique for prostate cancer. Your budget is limited, namely € 400,000, which you can spend on different types of research. Using this research, it can become clear which innovation has the most added value for Dutch society, if you decide correctly! Pick an innovation, you can always pick another when the results of a study are not as positive as you hoped.
 
@@ -24,7 +24,7 @@ This game was developed by the Radboudumc (Nijmegen, the Netherlands) to provide
 Original concept by Dr. Janneke Grutters & Prof. Maroeska Rovers; Evidence based surgery, Nijmegen, The Netherlands
 Game build by Drs. Stan Wijn; Evidence based surgery, Nijmegen, The Netherlands.
 
-For more information about this game, please contact: stan.wijn@radboudumc.nl
+For more information about this game, please contact: <stan.wijn@radboudumc.nl>
 
 
 ![alt text](https://stanwijn.github.io/images/htagame.png "HTA game home screen")

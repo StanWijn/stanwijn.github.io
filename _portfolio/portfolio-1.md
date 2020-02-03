@@ -4,7 +4,7 @@ excerpt: "An iPhone app that enables patients to share health data with research
 collection: portfolio
 ---
 
-Developed an iPhone app that enables patients to share health data with researchers. Being completely patient-centered, patients are able to determine which and with whom to share health data. Moreover, they have to ability to share ideas for future medical research. The app received very positive comments by a patient-panel and was published in ICT & Health (Februari 2017). https://www.icthealth.nl/online-magazine/meer-dynamisch-data-verzamelen-meer-dynamische-informed-consent/ 
+Developed an iPhone app that enables patients to share health data with researchers. Being completely patient-centered, patients are able to determine which and with whom to share health data. Moreover, they have to ability to share ideas for future medical research. The app received very positive comments by a patient-panel and was published in ICT & Health (Februari 2017). <https://www.icthealth.nl/online-magazine/meer-dynamisch-data-verzamelen-meer-dynamische-informed-consent/>
 
 
 
