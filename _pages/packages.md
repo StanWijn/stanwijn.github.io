@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Packages"
+title: "cemtool R-package"
 permalink: /packages/
 author_profile: true
 redirect_from:

@@ -17,4 +17,4 @@ We found that corticosteroid injections seem to be associated with an increased 
 
 [Download paper here](https://pubmed.ncbi.nlm.nih.gov/32349592/)
 
-[View the video on youtube] (https://youtu.be/sbL2uFhSNQA)
+[View the video on youtube](https://youtu.be/sbL2uFhSNQA/)
