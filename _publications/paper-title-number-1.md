@@ -1,7 +1,7 @@
 ---
 title: "Guidance from key organisations on exploring, confirming and interpreting subgroup effects of medical treatments: a scoping review."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper-title-number-1
 excerpt: 'The aim of this paper is to determine and evaluate the current guidance used by organisations for exploring, confirming and interpreting subgroup effects.'
 date: 2019-08-24
 venue: 'BMJ Open'

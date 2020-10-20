@@ -1,7 +1,7 @@
 ---
 title: "Arthroscopic meniscectomy versus non-surgical or sham treatment in patients with MRI confirmed degenerative meniscus lesions: a protocol for an individual participant data meta-analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper-title-number-1
 excerpt: 'The objective of this individual participant data meta-analysis (IPDMA) is to assess whether there are subgroups of patients with degenerative meniscus lesions who benefit from APM in comparison with non-surgical or sham treatment.'
 date: 2020-03
 venue: 'BMJ Open'
