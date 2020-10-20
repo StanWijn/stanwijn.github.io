@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please visit my LinkedIn page for more details. []: https://www.linkedin.com/in/stanwijn/
+Please visit my LinkedIn page for more details. <https://www.linkedin.com/in/stanwijn/>
 
 Education
 ======
