@@ -17,4 +17,4 @@ If you have any questions of suggestions, please let me know.
 Stan
 
 
-![](https://fra1.digitaloceanspaces.com/fairlands-school-assets/system/assets/uploads/000/000/371/original/welcome.jpg?1585859530)
+![""](https://fra1.digitaloceanspaces.com/fairlands-school-assets/system/assets/uploads/000/000/371/original/welcome.jpg?1585859530)

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please visit my LinkedIn page for more details. https://www.linkedin.com/in/stanwijn/
+
 Education
 ======
 * MSc, Health Technology Assessment (Cum Laude), Radboud University, Nijmegen, 2017
